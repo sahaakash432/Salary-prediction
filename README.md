@@ -1,1 +1,1 @@
-# Eventlyapplication
+# Salary Prediction 
